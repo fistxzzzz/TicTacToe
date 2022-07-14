@@ -86,10 +86,6 @@ class TicTacToe:
         self.plot()
 
 
-#THIS IS AN ADDED TEXT TOOOOOOOOOOOOOOO
-
-#ADDED TEXTT WOOOOOOOOOOOO
-
 if __name__ == '__main__':
     game = TicTacToe()
     game.run_game()
